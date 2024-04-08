@@ -1,16 +1,5 @@
 # video_summary_genarator
 
-A new Flutter project.
+Screenshots
+![Screenshot from 2024-04-09 02-54-25](https://github.com/1Gireesh/Video_summary_generator/assets/91236511/8456bc37-5c48-49de-acd0-8a623ce30632)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
